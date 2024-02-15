@@ -12,3 +12,4 @@ D:\Mphasis\Phase 3\15fib\Tables5\Tables5\obj\Debug\net6.0\refint\Tables5.dll
 D:\Mphasis\Phase 3\15fib\Tables5\Tables5\obj\Debug\net6.0\Tables5.pdb
 D:\Mphasis\Phase 3\15fib\Tables5\Tables5\obj\Debug\net6.0\Tables5.genruntimeconfig.cache
 D:\Mphasis\Phase 3\15fib\Tables5\Tables5\obj\Debug\net6.0\ref\Tables5.dll
+D:\Mphasis\Phase 3\15fib\Tables5\Tables5\obj\Debug\net6.0\Tables5.sourcelink.json

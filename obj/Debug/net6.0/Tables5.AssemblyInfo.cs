@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tables5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c293b052c68e9da28136d585210dad6c2cadf57a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tables5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tables5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
